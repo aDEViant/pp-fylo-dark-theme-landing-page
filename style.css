@@ -52,3 +52,12 @@ h1, h2, h3, h4, h5, h6 {
 #root, #__next {
   isolation: isolate;
 }
+
+.custom-bg-nav-color{
+  background-color: hsl(217, 28%, 15%);
+}
+
+.custom-bg-main-color{
+  background-color: hsl(218, 28%, 13%);
+}
+
