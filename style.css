@@ -61,3 +61,15 @@ h1, h2, h3, h4, h5, h6 {
   background-color: hsl(218, 28%, 13%);
 }
 
+.custom-link-color {
+  color: hsl(176, 68%, 64%);
+}
+
+.review-box, .form-box{
+  background-color: hsl(219, 30%, 18%);
+  border-radius: 2%;
+}
+
+.custom-image-border-radius{
+  border-radius: 50%;
+}
